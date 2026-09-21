@@ -1,4 +1,4 @@
-# devil-chat-coach 😈
+# 🧠 AI Agent Skill: devil-chat-coach 😈
 
 > 🧠 **AI Agent Skill** — Turn a dating / social-skills book into a hands-on chat coach. Paste what they said, get usable replies tailored to your stage and their warmth.
 > Works with [Claude Code](https://claude.com/claude-code) · [OpenClaw](https://github.com/openclaw/openclaw) · and any agent that can read a Markdown skill.
